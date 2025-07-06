@@ -1,3 +1,4 @@
+![logo](https://github.com/ayushi1807-tech/ayushi1807-tech/blob/main/Profile_LinkedIn_Banner.jpg?raw=true)
 <h1 align="center">Hi 👋, I'm Ayushi Patel</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
